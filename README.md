@@ -5,8 +5,8 @@
 -   **React**
 -   **TypeScript**
 -   **Vite**
--   **Tailwind CSS** (with a CSS Variable-based theme for maximum flexibility)
--   **Framer Motion** (for animations)
+-   **Tailwind CSS**
+-   **Framer Motion**
 -   **React Icons**
 
 
